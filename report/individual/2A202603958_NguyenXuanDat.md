@@ -4,7 +4,7 @@
 
 - **MSSV:2A202603958**
 - **Họ và tên:Nguyễn Xuân Đạt**
-- **SEED** (in ở ô đầu notebook):
+- **SEED:9511** (in ở ô đầu notebook):
 
 ## 1. Bằng chứng
 
